@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "mutex": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "regex": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp"
+    }
+}
